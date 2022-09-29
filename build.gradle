@@ -12,7 +12,7 @@ repositories {
 
 dependencies {
     
-    compile 'com.google.oauth-client:google-oauth-client-jetty:1.22.0'
+    compile 'com.google.oauth-client:google-oauth-client-jetty:1.32.1'
     compile 'com.google.apis:google-api-services-gmail:v1-rev70-1.22.0'
     //compile group: 'javax.mail', name: 'javax.mail-api', version: '1.6.0'
     compile group: 'com.sun.mail', name: 'javax.mail', version: '1.6.0'
